@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: c24ea23f5f9163e4ba194865bbd30b8c
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: d9e9ce465f1505f4b8cb474adab52e25
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: b497a74c833eddb41910e87619a6a603
+  - enabled: 1
+    path: Assets/Scenes/Level 4.unity
+    guid: 28594579193d8354bbc8c73e026a6252
+  - enabled: 1
+    path: Assets/Scenes/Level 5.unity
+    guid: c74591b839dd5f643b1fd323a4affd20
+  - enabled: 1
+    path: Assets/Scenes/Chat.unity
+    guid: 5db9b77fc2e3f9548a7bc7fba88b6837
+  - enabled: 1
+    path: Assets/Scenes/Music.unity
+    guid: 7dce6e5b8c8b78f47aaee73a6e7203ed
+  - enabled: 1
+    path: Assets/Scenes/Photos.unity
+    guid: 1f90f920506aeaf4aa81dcf4b93c619e
+  - enabled: 1
+    path: Assets/Scenes/Setting.unity
+    guid: b5ad4b8600ec69846ad50d4f591cd6b5
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 47d32904eea648644be70fc73b89d372
+  m_configObjects: {}
